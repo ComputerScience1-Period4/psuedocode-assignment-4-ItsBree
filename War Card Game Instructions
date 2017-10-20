@@ -1,6 +1,6 @@
 Each player turns up a card at the same time and the player with the higher card takes both cards and puts them,
 face down, on the bottom of his stack. If the cards are the same rank, it is War. Each player turns up one card 
-face down and one card face up. The player with the higher cards takes both piles (six cards). If the turned-up 
-cards are again the same rank, each player places another card face down and turns another card face up. 
+face down and one card face up. The player with the higher cards takes both piles (six cards) and puts them at the bottom of there deck. If the turned-up 
+cards are again the same rank, each player places another card face down and turns another card face up until a winner is determined. 
 The player with the higher card takes all 10 cards, and so on. The Jack, which is 11, is the lowest face card, 
-Queen, which is 12, is the second, and King, which is 13, is the highest. The ace card is equal to 1.
+Queen, which is 12, is the second, and King, which is 13, is the highest. The ace card is equal to 1. Number cards are worth there indicated value.
